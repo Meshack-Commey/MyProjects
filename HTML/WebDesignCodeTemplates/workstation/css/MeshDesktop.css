@@ -1,0 +1,97 @@
+/*Mesh Desktop Device*/
+.MeshDesktop{
+    width: 80%;
+    height: 620px;
+    text-align: justify;
+    color: white;
+    background-color: black;
+    margin-top: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+    position: fixed;
+}
+header{
+    color: whitesmoke;
+    background-position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: wavy;
+    margin-top: 8px;
+}
+
+/*Desktop Screen*/
+.Desktop{
+    width: 90%;
+    height: 500px;
+    border: 1px solid red;
+    background-color: rgb(46, 43, 43);
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+iframe{
+    width: 100%;
+    height: 500px;
+    border: 1px solid red;
+    color: white;
+    background-color: rgb(46, 43, 43);
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+/*Neck of Desktop*/
+.desktop-neck{
+    width: 90px;
+    height: 70px;
+    background-color: rgb(46, 43, 43);
+    border: 1px solid red;
+    border-radius:;
+    margin-left: 510px;
+    margin-top: 0px;
+}
+/*switch on/off */
+button{
+    width: ;
+    height: 17px;
+    color: ;
+    background-color: ;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+/*settings*/
+.settings{
+    width: 70px;
+    height: 18px;
+    color: black;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+
+/*base of Desktop*/
+.desktop-base{
+    width: 400px;
+    height: 50px;
+    background-color: rgb(46, 43, 43);
+    border: 1px solid red;
+    border-radius: 56px;
+    margin-left: 340px;
+}
+
+.image-slider {
+    width: 80%;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 0px;
+}
